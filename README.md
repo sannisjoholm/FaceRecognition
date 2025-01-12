@@ -11,6 +11,7 @@ This project contains folders for creating Face Recognition Scripts.
 The project does have the first face recognition script to test face recognition.
 
 **!** The venv folder is not updated in GitHub anymore for the growth of libraries (see dependencies).
+
 See the faceRecognition.py to see the comments. That includes:
 ### Basics:
 - face verification

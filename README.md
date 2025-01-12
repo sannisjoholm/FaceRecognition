@@ -30,15 +30,7 @@ See the faceRecognition.py to see the comments. That includes:
      - Validate the model with images in the validation folder.
      - Save results in the output folder.
 
-2. How to
-   - The file faceRecognition.py uses DeepFace library.
-   - The instructions to install the libraries in venv:
-      - Git Bash:
-        
-         a. Get into the virtual environment.
-        
-         b. bash:
-           ```pip install deepface ```
+
 
 ## Usage Instructions
 1. Clone the repository:
@@ -48,5 +40,14 @@ See the faceRecognition.py to see the comments. That includes:
   ```bash
   pip install -r requirements.txt
   ```
+2. Update: the faceRecognition.py file
+   - The file faceRecognition.py uses DeepFace library.
+   - The instructions to install the libraries in venv:
+      - Git Bash:
+        
+         a. Get into the virtual environment.
+        
+         b. bash:
+           ```pip install deepface ```
 
 Feel free to modify it based on your project's specifics!

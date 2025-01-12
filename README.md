@@ -22,6 +22,7 @@ The project does have the first face recognition script to test face recognition
    - The file faceRecognition.py uses DeepFace library.
    - The instructions to install the libraries in venv:
       - Git Bash:
+        
          a. Get into the virtual environment.
         
          b. bash:

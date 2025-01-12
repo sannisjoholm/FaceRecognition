@@ -18,7 +18,7 @@ The project does have the first face recognition script to test face recognition
      - Validate the model with images in the validation folder.
      - Save results in the output folder.
 
-2. **Dependencies**:
+2. How to
    - The file faceRecognition.py uses DeepFace library.
    - The instructions to install the libraries in venv:
       - Git Bash:
@@ -27,9 +27,6 @@ The project does have the first face recognition script to test face recognition
         
          b. bash:
            ```pip install deepface ```
-
-3. **Contribute**:
-   - Contributions are welcome to build the face recognition script and improve the project structure.
 
 ## Usage Instructions
 1. Clone the repository:

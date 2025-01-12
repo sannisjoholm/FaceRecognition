@@ -1,3 +1,4 @@
+
 # Face Recognition Project
 
 This project contains folders for creating Face Recognition Scripts.
@@ -8,20 +9,20 @@ This project contains folders for creating Face Recognition Scripts.
 - **Output Folder**: Currently empty and not in use yet. This folder is intended to store the results of the face recognition process.
 
 ## Current Status
-The project does have the first face recognition script to test face recognition.
+The project currently includes a basic face recognition script for testing purposes.
 
-**!** The venv folder is not updated in GitHub anymore for the growth of libraries (see dependencies).
+### Features:
+1. **Basics**:
+   - Face verification
+   - Face detection
+   - Generating face vectors
+   - Facial attribute analysis
+2. **Self-built Analysis**:
+   - Face detection analysis
+     - Score listing for easier readability
 
-See the faceRecognition.py to see the comments. That includes:
-### Basics:
-- face verification
-- face finding
-- vectors
-- facial attribute analysis
-
-### Self-built analysis
-- face detection analysis
-     - listing to ease the reading of the scores
+### Note
+The `venv` folder is no longer updated in the repository to reduce its size. Dependencies must be installed separately (see below).
 
 ## Next Steps
 1. **Add a Face Recognition Script**:
@@ -30,24 +31,28 @@ See the faceRecognition.py to see the comments. That includes:
      - Validate the model with images in the validation folder.
      - Save results in the output folder.
 
-
-
 ## Usage Instructions
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+   cd <repository-folder>
    ```
-  ```bash
-  pip install -r requirements.txt
-  ```
-2. Update: the faceRecognition.py file
-   - The file faceRecognition.py uses DeepFace library.
-   - The instructions to install the libraries in venv:
-      - Git Bash:
-        
-         a. Get into the virtual environment.
-        
-         b. bash:
-           ```pip install deepface ```
 
-Feel free to modify it based on your project's specifics!
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Update the `faceRecognition.py` file:
+   - The script uses the `DeepFace` library.
+   - To install `DeepFace`, activate the virtual environment and run:
+     ```bash
+     pip install deepface
+     ```
+4. Check the file for your use, do the modifications
+5. run file
+   ```bash
+   python faceRecognition.py  
+   ```
+
+Feel free to modify this project to suit your specific needs!

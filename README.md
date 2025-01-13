@@ -29,10 +29,6 @@ The scores and metrics displayed (such as emotions, age, and race percentages) a
   <img src="https://github.com/user-attachments/assets/e10eca5f-c73f-4fd0-8861-f034b9ce83f5" alt="Analysis Results" width="400">
 </div>
 
-
-## Please Note
-The `venv` folder is not updated in the repository. Dependencies must be installed separately (see below).
-
 ## Next Steps
 1. **Add a Face Recognition Script**:
    - Implement a script to:
@@ -64,5 +60,9 @@ The `venv` folder is not updated in the repository. Dependencies must be install
    ```bash
    python faceRecognition.py  
    ```
+
+
+## Please Note
+The `venv` folder is not updated in the repository. Dependencies must be installed separately (see below).
 
 Feel free to modify this project to suit your specific needs!

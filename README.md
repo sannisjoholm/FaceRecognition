@@ -9,7 +9,7 @@ This project contains folders for creating Face Recognition Scripts.
 - **Output Folder**: Currently empty and not in use yet. This folder is intended to store the results of the face recognition process.
 
 ## Current Status
-The scores and metrics displayed (such as emotions, age, and race percentages) are not yet accurate and should be considered as placeholders or initial outputs during testing phases.
+The scores and metrics displayed (such as emotions, age, and race percentages) are not yet accurate <br>and should be considered as placeholders or initial outputs during testing phases.
 <br>Future work will involve refining the accuracy of these predictions through improvements in the algorithm, dataset quality, and model training processes.
 
 ### Features:
@@ -24,7 +24,10 @@ The scores and metrics displayed (such as emotions, age, and race percentages) a
 
 ### PDF Output (You can see the Output File in the output folder of the project)
 
-![image](https://github.com/user-attachments/assets/e10eca5f-c73f-4fd0-8861-f034b9ce83f5)
+
+<div>
+  <img src="https://github.com/user-attachments/assets/e10eca5f-c73f-4fd0-8861-f034b9ce83f5" alt="Analysis Results" width="400">
+</div>
 
 
 ### Note

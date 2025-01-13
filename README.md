@@ -30,9 +30,10 @@ The scores and metrics displayed (such as emotions, age, and race percentages) a
 </div>
 
 ## Next Steps
-1. **Add a Face Recognition Script**:
-   - Implement a script to:
-     - Find the persons from the images.
+- Implement a script to:
+  - Find the persons from the images.
+  - Analyse the person from the image to the output PDF file
+  - Set the scores in the ascending order 
 
 ## Usage Instructions
 1. Clone the repository:

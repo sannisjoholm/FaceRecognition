@@ -57,7 +57,10 @@ The `venv` folder is no longer updated in the repository to reduce its size. Dep
      pip install deepface
      ```
 4. Check the file for your use, do the modifications
-5. Run file
+5. Use the virtual environment
+6. Install required libraries found in the script
+   - deepface, fpdf
+7. Run file
    ```bash
    python faceRecognition.py  
    ```

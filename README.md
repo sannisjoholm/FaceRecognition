@@ -33,7 +33,7 @@ The scores and metrics displayed (such as emotions, age, and race percentages) a
 - Implement a script to:
   - Find the persons from the images.
   - Analyse the person from the image to the output PDF file
-  - Set the scores in the ascending order 
+  - Set the scores in the descending order 
 
 ## Usage Instructions
 1. Clone the repository:

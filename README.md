@@ -21,6 +21,10 @@ The project currently includes a basic face recognition script for testing purpo
    - Face detection analysis
      - Score listing for easier readability
 
+### PDF Output (You can see the Output File in the output folder of the project)
+    ![image](https://github.com/user-attachments/assets/2d607925-2365-448d-81ef-575429858963)
+
+
 ### Note
 The `venv` folder is no longer updated in the repository to reduce its size. Dependencies must be installed separately (see below).
 

@@ -30,8 +30,8 @@ The scores and metrics displayed (such as emotions, age, and race percentages) a
 </div>
 
 
-### Note
-The `venv` folder is no longer updated in the repository to reduce its size. Dependencies must be installed separately (see below).
+## Please Note
+The `venv` folder is not updated in the repository. Dependencies must be installed separately (see below).
 
 ## Next Steps
 1. **Add a Face Recognition Script**:

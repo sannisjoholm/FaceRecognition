@@ -36,9 +36,7 @@ The `venv` folder is no longer updated in the repository to reduce its size. Dep
 ## Next Steps
 1. **Add a Face Recognition Script**:
    - Implement a script to:
-     - Train a model using images in the training folders.
-     - Validate the model with images in the validation folder.
-     - Save results in the output folder.
+     - Find the persons from the images.
 
 ## Usage Instructions
 1. Clone the repository:

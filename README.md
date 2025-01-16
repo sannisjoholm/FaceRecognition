@@ -5,6 +5,15 @@ This project contains folders for creating Face Recognition Scripts.
 
 ## Folder Structure
 - **Training Folders**: The training folders are named after the Presidents of Finland. Each folder is expected to contain images of the respective individual.
+For the example:
+training/ 
+├── Kallio/ 
+  ├─── Kallio1.jpg 
+  ├─── Kallio2.jpg
+├── Kekkonen/ 
+  ├─── Kekkonen1.jpg 
+  ├─── Kekkonen2.jpg 
+├── ...
 - **Validation Folder**: Includes two pictures of presidents for testing or validation purposes.
 - **Output Folder**: Currently empty and not in use yet. This folder is intended to store the results of the face recognition process.
 
